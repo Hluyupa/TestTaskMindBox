@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\TestTaskMindBox\ShapesAreaLibrary\bin\Debug\ShapesAreaLibrary.dll
+C:\Users\User\source\repos\TestTaskMindBox\ShapesAreaLibrary\bin\Debug\ShapesAreaLibrary.pdb
+C:\Users\User\source\repos\TestTaskMindBox\ShapesAreaLibrary\obj\Debug\ShapesAreaLibrary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TestTaskMindBox\ShapesAreaLibrary\obj\Debug\ShapesAreaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestTaskMindBox\ShapesAreaLibrary\obj\Debug\ShapesAreaLibrary.dll
+C:\Users\User\source\repos\TestTaskMindBox\ShapesAreaLibrary\obj\Debug\ShapesAreaLibrary.pdb
